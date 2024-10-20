@@ -9,13 +9,15 @@
       <p><b></b></p>
       
     </td>
-    <td width="25%">
+    <td width="125%">
       <img src="home.jpg" width="100%">
     </td>
   </tr>
 </table>
 </div>
-
+<br>
+<br>
+<br>
 ---
 
 
