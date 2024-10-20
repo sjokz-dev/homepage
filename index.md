@@ -7,10 +7,10 @@
       <p><b>Lingnan University</b></p>
       <p><b>As cool as a cucumber~</b></p>
       <p><b></b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/home.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -18,7 +18,7 @@
 
 ---
 
-张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
+
 
 ---
 
