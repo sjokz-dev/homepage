@@ -32,8 +32,7 @@
 <br>
 <br>
 </td>
-    <td width="125%">
-      <img src="home.jpg" width="100%">
+      <img src="rick.png" width="100%">
     </td>
   </tr>
 </table>
