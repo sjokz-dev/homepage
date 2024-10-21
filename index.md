@@ -24,9 +24,16 @@
 
 ---
 
-### 最新消息
-1. 消息1×××
-
+### Weekly_Homework_4_CDT501
+1. Create a personal website
+2. AI-Assisted Python Programming
+3. Reflection on AI in Programming
+</td>
+    <td width="125%">
+      <img src="home.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 ### 研究方向
 - 文本挖掘
 - 知识图谱
