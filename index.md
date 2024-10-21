@@ -28,6 +28,9 @@
 1. Create a personal website
 2. AI-Assisted Python Programming
 3. Reflection on AI in Programming
+<br>
+<br>
+<br>
 </td>
     <td width="125%">
       <img src="home.jpg" width="100%">
